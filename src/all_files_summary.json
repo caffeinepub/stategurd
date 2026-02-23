@@ -1,0 +1,23 @@
+{
+  "backend/main.mo": "Empty Motoko actor file serving as the backend entry point with no implemented functionality.",
+  "feature_evidence.json": "Feature evidence report documenting four implemented features for clickable area names in property listings, including navigation, styling, and smooth transitions with high confidence ratings.",
+  "frontend-file-summaries.txt": "JSON-formatted summaries of 13 frontend files describing the complete STATEGURD real estate website structure including routing, components, and styling.",
+  "frontend/index.css": "Tailwind CSS configuration with OKLCH color system defining navy blue and gold palette, smooth scroll behavior, and design tokens for light and dark themes.",
+  "frontend/index.html": "HTML entry point with SEO meta tags for STATEGURD real estate services and script reference to main.tsx.",
+  "frontend/src/App.tsx": "Main application component configuring TanStack Router with routes for home page and dynamic area-filtered property listings, wrapped in a layout with footer and smooth scroll behavior.",
+  "frontend/src/components/AboutSection.tsx": "Two-column responsive section with team image and detailed content about STATEGURD's expertise, transparency, and client-centered approach using navy and gold styling.",
+  "frontend/src/components/ContactSection.tsx": "Contact section with info cards (phone, email, location) and validated inquiry form handling name, phone, email, and property interest with submission state management.",
+  "frontend/src/components/FeaturedPropertiesSection.tsx": "Grid of property cards with images, details, and clickable area names that link to filtered listings using TanStack Router with hover effects and featured badges.",
+  "frontend/src/components/Footer.tsx": "Footer component displaying STATEGURD branding, quick links, services, contact information, and social media icons with a copyright notice.",
+  "frontend/src/components/HeroSection.tsx": "Hero section component with full-screen background image, headline, CTA button that scrolls to contact section, and animated scroll indicator.",
+  "frontend/src/components/PropertyListingPage.tsx": "Property listing page component that filters and displays properties by area from URL params, showing property cards with details like price, bedrooms, bathrooms, and square footage.",
+  "frontend/src/components/ServicesSection.tsx": "Services section component displaying four real estate service cards (buying, selling, rental management, investment consultancy) with icons and descriptions in a responsive grid.",
+  "frontend/src/components/TestimonialsSection.tsx": "Testimonials section component showing four client testimonials in card format with quotes, author names, and locations.",
+  "frontend/src/components/WhyChooseUsSection.tsx": "Why Choose Us section component highlighting four key features (market expertise, transparency, client-centered approach, secure transactions) with icons and descriptions on a dark navy background.",
+  "frontend/src/hooks/useActor.ts": "React hook that creates and manages an authenticated or anonymous backend actor based on Internet Identity authentication state, with automatic query invalidation on identity changes.",
+  "frontend/src/hooks/useInternetIdentity.ts": "React hook and context provider for Internet Identity authentication on ICP, managing login state, identity persistence, and delegation validation with configurable AuthClient options.",
+  "frontend/src/index.css": "Tailwind CSS configuration with custom navy blue and gold color palette, dark mode support, typography settings, and page transition animations for the STATEGURD brand.",
+  "frontend/src/main.tsx": "Application entry point that sets up React root with QueryClient for data fetching and InternetIdentityProvider for authentication context.",
+  "frontend/tailwind.config.js": "Tailwind configuration extending theme with custom navy/gold colors using OKLCH color space, typography plugin, container queries, and custom animations for accordions.",
+  "project_state.json": "Project metadata defining STATEGURD real estate website with navy/gold design system, listing implemented features including hero, services, properties, testimonials, and contact sections with responsive design."
+}

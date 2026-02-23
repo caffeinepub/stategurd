@@ -1,0 +1,15 @@
+{
+  "frontend/src/App.tsx": "Main application component with TanStack Router setup, defining routes for home page and dynamic area-specific property listings with smooth scroll behavior and layout wrapper.",
+  "frontend/src/components/HeroSection.tsx": "Full-screen hero section with background image overlay, main headline \"Secure Your Property Future with STATEGURD\", subheadline, and prominent CTA button that scrolls to contact form.",
+  "frontend/src/components/AboutSection.tsx": "Two-column responsive section featuring team image and detailed content about STATEGURD's professionalism, transparency, and market expertise with gold accent styling.",
+  "frontend/src/components/ServicesSection.tsx": "Grid layout displaying four service cards (Property Buying, Selling, Rental Management, Investment Consultancy) with icons, titles, descriptions, and hover effects using navy and gold colors.",
+  "frontend/src/components/FeaturedPropertiesSection.tsx": "Featured properties section displaying property cards with clickable area names that link to filtered property listings using TanStack Router Link component with hover effects.",
+  "frontend/src/components/WhyChooseUsSection.tsx": "Navy blue background section with four feature cards highlighting Market Expertise, Transparent Process, Client-Centered Approach, and Secure Transactions with gold icons.",
+  "frontend/src/components/TestimonialsSection.tsx": "Grid of four client testimonial cards with quotes, author names, and locations, styled with quote icons and professional card design.",
+  "frontend/src/components/ContactSection.tsx": "Contact section with info cards (phone, email, office) and inquiry form with validation for name, phone, email, and property interest fields, including success state.",
+  "frontend/src/components/Footer.tsx": "Comprehensive footer with brand info, quick links, services, contact details, social media icons, and attribution to caffeine.ai with dynamic year and UTM tracking.",
+  "frontend/src/index.css": "Global styles with OKLCH color system for navy blue and gold palette, smooth scroll behavior, and fade-in page transition animations for route changes.",
+  "frontend/tailwind.config.js": "Tailwind configuration extended with custom navy and gold color tokens, Inter font family, and design system tokens for the premium real estate aesthetic.",
+  "frontend/index.html": "HTML entry point with SEO-optimized title and meta description for STATEGURD real estate services.",
+  "frontend/src/components/PropertyListingPage.tsx": "Dynamic property listing page component that filters and displays properties by area from URL parameter, includes breadcrumb navigation, area header, and handles empty states."
+}
